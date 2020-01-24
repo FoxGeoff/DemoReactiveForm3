@@ -23,8 +23,8 @@ export class CustomerComponent implements OnInit {
     });
   }
 
-  save(); {
-  console.log(this.customerForm);
-  console.log('Saved: ' + JSON.stringify(this.customerForm.value));
-}
+  save() {
+    console.log(this.customerForm);
+    console.log('Saved: ' + JSON.stringify(this.customerForm.value));
+  }
 }
