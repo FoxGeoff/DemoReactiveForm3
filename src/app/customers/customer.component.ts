@@ -28,6 +28,7 @@ export class CustomerComponent implements OnInit {
     console.log('Saved: ' + JSON.stringify(this.customerForm.value));
   }
 
+  /* use setValue to change every value */
   testData() {
     this.customerForm.patchValue({
       firstName: 'Geoff'
