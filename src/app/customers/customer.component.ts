@@ -14,6 +14,8 @@ export class CustomerComponent implements OnInit {
 
   constructor() { }
 
+  /* This can be replaced by using: this.customForm = new FormGroup({ firstName: '', lastName: '', ...
+  OR ... email: {value: 'n/a', disabled: tue}}) */
   ngOnInit() {
     this.customerForm = new FormGroup({
       firstName: new FormControl(),
