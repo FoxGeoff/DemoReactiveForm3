@@ -5,3 +5,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Check List Reactive Form (from template form)
 
 ![Check List Reactive Form](src/images/AngularReactiveFormChecks.jpg?raw=true)
+
+## Using setValue and patchValue (update values from component class)
