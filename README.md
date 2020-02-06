@@ -8,4 +8,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Using setValue and patchValue (update values from component class)
 
-## next step
+## next step validation
