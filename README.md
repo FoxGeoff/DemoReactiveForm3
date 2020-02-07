@@ -31,3 +31,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![Check List Reactive Form](src/images/setValuepatchValue.jpg?raw=true)
 
 ## *next step validation*
+
+* Setting and Building Validation Rules
