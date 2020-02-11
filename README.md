@@ -32,4 +32,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## *next step validation*
 
-* Setting and Building Validation Rules
+* Setting and Building Validation Rules.
