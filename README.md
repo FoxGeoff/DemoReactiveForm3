@@ -33,3 +33,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## *next step validation*
 
 * Setting and Building Validation Rules.
+
+## Validation
+
+![Check List Reactive Form](src/images/setValuepatchValue.jpg?raw=true)
