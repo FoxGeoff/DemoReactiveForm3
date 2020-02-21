@@ -34,6 +34,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 * Setting and Building Validation Rules.
 
-## Validation
+## Validation - Creating the Root Form Group
 
-![Check List Reactive Form](src/images/setValuepatchValue.jpg?raw=true)
+![Check List Reactive Form](src/images/CreatingRootFormGroup.png?raw=true)
+
+## Validation - Three Methods for Validation
+
+![Check List Reactive Form](src/images/Validation3methods.png?raw=true)
+
+## Validation - Setting built in Rules
+
+![Check List Reactive Form](src/images/SettingBuiltInRules.png?raw=true)
