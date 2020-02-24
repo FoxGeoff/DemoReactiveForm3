@@ -32,7 +32,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## *next step validation*
 
-* Setting and Building Validation Rules.
+## **Module: Setting and Building Validation Rules**
 
 ## Validation - Creating the Root Form Group
 
@@ -42,8 +42,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![Check List Reactive Form](src/images/Validation3methods.png?raw=true)
 
-## Validation - Setting built in Rules
+## Validation - Setting built in Rules (the third parameter is async -not shown)
 
 ![Check List Reactive Form](src/images/SettingBuiltInRules.png?raw=true)
 
-## ===
+## Example Code using FormGroup / FormControl
+
+![Using FormGroup / FormControl](src/images/angular-validation-FormGroup-FomControl.png?raw=true)
+
+## Example Code using FormBuilder
+
+![Using FormGroup / FormControl](src/images/angular-validation-FormBuilder.png?raw=true)

@@ -18,8 +18,7 @@
             id="firstNameId"
             type="text"
             placeholder="First Name (required)"
-            required
-            minlength="3"
+
             formControlName="firstName"
             name="firstName"
             [ngClass]="{
@@ -50,8 +49,7 @@
             formControlName="lastName"
             type="text"
             placeholder="Last Name (required)"
-            required
-            maxlength="50"
+
             [ngClass]="{
               'is-invalid':
                 (customerForm.get('lastName').touched || customerForm.get('lastName').dirty) && !customerForm.get('lastName').valid
@@ -78,8 +76,7 @@
 
             type="email"
             placeholder="Email (required)"
-            required
-            email
+            
             name="email"
             [ngClass]="{
               'is-invalid':
