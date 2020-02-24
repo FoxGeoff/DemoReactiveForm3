@@ -53,3 +53,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Example Code using FormBuilder
 
 ![Using FormGroup / FormControl](src/images/angular-validation-FormBuilder.png?raw=true)
+
+##  **Module: Adjusting Validation Rules at Runtime**
+
+![Using FormGroup / FormControl](src/images/AdjusingValidationRulesAtRuntime.png?raw=true)
